@@ -32,23 +32,23 @@
     },
     {
       "id": 4,
-      "title": "Complete Room Database",
-      "description": "Implement CRUD operations",
-      "category": "Study",
+      "title": "Project",
+      "description": "Made the task hub project",
+      "category": "project",
       "priority": "High",
       "dueDate": "2026-07-15",
       "status": "Pending",
-      "image": "https://picsum.photos/200?random=4"
+      "image": "https://raw.githubusercontent.com/shoaibjamshaid128-crypto/TaskHubAPI/refs/heads/main/images/project.png"
     },
     {
       "id": 5,
-      "title": "Read Android Documentation",
-      "description": "Study RecyclerView and Navigation",
-      "category": "Study",
-      "priority": "Low",
+      "title": "Meeting",
+      "description": "MeetUp to business client",
+      "category": "meeting",
+      "priority": "High",
       "dueDate": "2026-07-20",
-      "status": "Pending",
-      "image": "https://picsum.photos/200?random=5"
+      "status": "complete",
+      "image": "https://raw.githubusercontent.com/shoaibjamshaid128-crypto/TaskHubAPI/refs/heads/main/images/meeting.png"
     }
   ]
 }
