@@ -8,7 +8,7 @@
       "priority": "High",
       "dueDate": "2026-07-10",
       "status": "Pending",
-      "image": "https://raw.githubusercontent.com/shoaibjamshaid128-crypto/TaskHubAPI/refs/heads/main/images/study.png"
+      "image": "https://raw.githubusercontent.com/shoaibjamshaid128-crypto/TaskHubAPI/main/images/study.png"
     },
     {
       "id": 2,
@@ -22,9 +22,9 @@
     },
     {
       "id": 3,
-      "title": "Morning Workout",
-      "description": "Exercise for 30 minutes",
-      "category": "Health",
+      "title": "Shopping",
+      "description": "shoes, clothes etc.",
+      "category": "shopping",
       "priority": "High",
       "dueDate": "2026-07-13",
       "status": "Pending",
