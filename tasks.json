@@ -1,0 +1,54 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "title": "Learn Retrofit",
+      "description": "Connect Android app with REST API",
+      "category": "Study",
+      "priority": "High",
+      "dueDate": "2026-07-10",
+      "status": "Pending",
+      "image": "https://picsum.photos/200?random=1"
+    },
+    {
+      "id": 2,
+      "title": "Buy Groceries",
+      "description": "Milk, Eggs, Bread and Fruits",
+      "category": "Personal",
+      "priority": "Medium",
+      "dueDate": "2026-07-12",
+      "status": "Completed",
+      "image": "https://picsum.photos/200?random=2"
+    },
+    {
+      "id": 3,
+      "title": "Morning Workout",
+      "description": "Exercise for 30 minutes",
+      "category": "Health",
+      "priority": "High",
+      "dueDate": "2026-07-13",
+      "status": "Pending",
+      "image": "https://picsum.photos/200?random=3"
+    },
+    {
+      "id": 4,
+      "title": "Complete Room Database",
+      "description": "Implement CRUD operations",
+      "category": "Study",
+      "priority": "High",
+      "dueDate": "2026-07-15",
+      "status": "Pending",
+      "image": "https://picsum.photos/200?random=4"
+    },
+    {
+      "id": 5,
+      "title": "Read Android Documentation",
+      "description": "Study RecyclerView and Navigation",
+      "category": "Study",
+      "priority": "Low",
+      "dueDate": "2026-07-20",
+      "status": "Pending",
+      "image": "https://picsum.photos/200?random=5"
+    }
+  ]
+}
