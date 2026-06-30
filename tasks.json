@@ -12,13 +12,13 @@
     },
     {
       "id": 2,
-      "title": "Buy Groceries",
-      "description": "Milk, Eggs, Bread and Fruits",
+      "title": "Foucs",
+      "description": "Target and achive the big goal",
       "category": "Personal",
       "priority": "Medium",
       "dueDate": "2026-07-12",
       "status": "Completed",
-      "image": "https://picsum.photos/200?random=2"
+      "image": "https://github.com/shoaibjamshaid128-crypto/TaskHubAPI/blob/main/images/focus.png"
     },
     {
       "id": 3,
