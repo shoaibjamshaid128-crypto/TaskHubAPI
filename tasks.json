@@ -28,7 +28,7 @@
       "priority": "High",
       "dueDate": "2026-07-13",
       "status": "Pending",
-      "image": "https://picsum.photos/200?random=3"
+      "image": "https://raw.githubusercontent.com/shoaibjamshaid128-crypto/TaskHubAPI/main/images/shopping.png"
     },
     {
       "id": 4,
